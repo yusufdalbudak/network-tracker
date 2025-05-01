@@ -36,5 +36,5 @@ Network Tracker is a Python-based real-time device discovery tool built on top o
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/network-tracker.git
+git clone https://github.com/yusufdalbudak/network-tracker.git
 cd network-tracker
